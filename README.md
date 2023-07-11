@@ -1,7 +1,5 @@
 # MVC-Tech-blog
 
-# MVC-Tech-blog
-
 By OutlawDisco
 email:aoutlaw@gmail.com
 
